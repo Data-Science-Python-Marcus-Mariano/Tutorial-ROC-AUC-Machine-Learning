@@ -1,4 +1,4 @@
-# Tutorial-Feature-Selection-Techniques-Machine-Learning
+# Tutorial-ROC-AUC-Machine-Learning
 Tutorial made from 'ROC Curve and AUC Score - Machine Learning Classification Metrics Python' (DataMItes) by Marcus Marian
 
 ---
